@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /escort.asgart-web.ru/
+Sitemap: http://www.flirt-escort.ru/sitemap.xml
